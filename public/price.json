@@ -1,0 +1,24 @@
+[ 
+     {    "id": 1, "name": "Product 1",   "price": 9.99,    "short_features": [      "Soft and comfortable",      "Breathable fabric",      "Available in multiple colors"    ]
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "price": 19.99,
+    "short_features": [
+      "Durable construction",
+      "Water-resistant material",
+      "Adjustable straps"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "price": 29.99,
+    "short_features": [
+      "Large capacity for storage",
+      "Padded laptop compartment",
+      "Multiple pockets and compartments"
+    ]
+  }
+]
